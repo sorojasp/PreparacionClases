@@ -1,0 +1,29 @@
+#contenedorCabecera{
+
+    background-color:#86e7b8;
+
+
+}
+
+nav {
+    float:right;
+    background-color: yellow;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    
+}
+
+
+ li{
+    
+    display: inline;
+    font-size: 20px;
+    padding: 20px;
+    
+    
+}
+
+
+
+
